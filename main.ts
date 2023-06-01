@@ -7,44 +7,6 @@ basic.forever(function () {
             . # # # .
             # . # . #
             `)
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
-    } else if (false) {
-    	
     } else {
         basic.showString("" + (input.temperature()))
     }
